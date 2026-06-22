@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+docx_output/
+ocr_cache.json
