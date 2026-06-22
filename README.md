@@ -132,3 +132,5 @@ MAX_RETRIES=5
 - python-docx — генерация DOCX
 - requests — запросы к AI API
 - python-dotenv — загрузка `.env`
+
+сайт для создание фото текста - https://pisaka.online/
